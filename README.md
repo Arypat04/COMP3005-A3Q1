@@ -4,3 +4,9 @@ Download the .sql file and .py file, adjust the connection parameters to match y
 
 Use:
 A3Q1.py
+
+
+
+Youtube Link:
+
+https://youtu.be/dyUxNod- 
